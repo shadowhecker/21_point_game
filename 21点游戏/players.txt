@@ -1,0 +1,8 @@
+Jake Peralta
+5 5 0 0 100 15
+Johnny Rose
+6 2 0 4 20 10
+Amy Santiago
+7 4 0 3 300 15
+Jessica Jones
+12 0 6 6 50 6
